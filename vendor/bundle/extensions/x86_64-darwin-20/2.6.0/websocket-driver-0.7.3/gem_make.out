@@ -1,0 +1,15 @@
+current directory: /Users/ikhr/repo/rails-6-hello-app/vendor/bundle/gems/websocket-driver-0.7.3/ext/websocket-driver
+/Users/ikhr/.anyenv/envs/rbenv/versions/2.6.3/bin/ruby -I /Users/ikhr/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20210201-54148-1witk39.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ikhr/repo/rails-6-hello-app/vendor/bundle/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/ikhr/repo/rails-6-hello-app/vendor/bundle/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/ikhr/repo/rails-6-hello-app/vendor/bundle/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/opt/coreutils/libexec/gnubin/install -c -m 0755 websocket_mask.bundle ./.gem.20210201-54148-17th2b6
